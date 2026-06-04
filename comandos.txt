@@ -1,0 +1,5 @@
+1. git init: Inicializa un nuevo repositorio Git local en el directorio actual.
+2. git clone [URL]: Descarga una copia exacta de un repositorio remoto existente a la máquina local.
+3. git add [archivo]: Añade los archivos modificados al área de preparación (staging area) para el próximo commit.
+4. git commit -m "mensaje": Guarda los cambios del área de preparación de manera definitiva en el historial local.
+5. git push [remoto] [rama]: Sube los commits realizados en la rama local hacia el repositorio remoto en GitHub.
